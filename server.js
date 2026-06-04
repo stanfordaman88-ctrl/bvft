@@ -15,7 +15,7 @@ const allowedOrigins = [
   'https://bellbusinesscanada.netlify.app',
   'https://sunny-pastelito-8843b7.netlify.app',
   'https://viralbell.netlify.app',
-  'https://jhvnb.vercel.app',
+  'https://jump-seven-drab.vercel.app',
    // add all your trusted frontends here
 ];
 
