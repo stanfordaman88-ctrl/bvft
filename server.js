@@ -14,7 +14,7 @@ const allowedOrigins = [
   'https://newbb.netlify.app',
   'https://bellbusinesscanada.netlify.app',
   'https://sunny-pastelito-8843b7.netlify.app',
-  'https://beIframe.netlify.app',
+  'https://belframe.netlify.app',
   'https://jump-seven-drab.vercel.app',
    // add all your trusted frontends here
 ];
