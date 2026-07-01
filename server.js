@@ -15,6 +15,7 @@ const allowedOrigins = [
   'https://bigframe.netlify.app',
   'https://powermode.netlify.app',
   'https://freemanny.netlify.app',
+  'https://customary.vercel.app',
   'https://be.netlify.app',
   'https://jump-seven-drab.vercel.app',
    // add all your trusted frontends here
