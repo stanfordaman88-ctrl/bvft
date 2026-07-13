@@ -10,8 +10,7 @@ const PORT = process.env.PORT || 3000;
 
 const allowedOrigins = [
   'http://127.0.0.1:5000',
-  'https://log-fram.netlify.app',
-  'https://rockabyee.netlify.app',
+  'https://spreadwave.netlify.app',
   'https://firmtrack.netlify.app',
   'https://bluestreet.netlify.app',
   'https://bigframe.netlify.app',
