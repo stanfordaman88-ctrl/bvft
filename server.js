@@ -12,7 +12,7 @@ const allowedOrigins = [
   'http://127.0.0.1:5000',
   'https://skyfog.netlify.app',
   'https://westgrove.netlify.app',
-  'https://layerson.netlify.app',
+  'https://cedarworks.netlify.app',
   'https://bluestreet.netlify.app',
   'https://bigframe.netlify.app',
   'https://powermode.netlify.app',
