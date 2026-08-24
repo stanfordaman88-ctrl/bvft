@@ -11,7 +11,7 @@ const PORT = process.env.PORT || 3000;
 const allowedOrigins = [
   'http://127.0.0.1:5000',
   'https://skyfog.netlify.app',
-  'https://patchynet.netlify.app',
+  'https://bettlybet.netlify.app',
   'https://epiphanies.netlify.app',
   'https://candystk.netlify.app',
   'https://headyed.netlify.app',
