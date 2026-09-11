@@ -21,7 +21,7 @@ const allowedOrigins = [
   'https://bigframe.netlify.app',
   'https://powermode.netlify.app',
   'https://freemanny.netlify.app',
-  'https://averixlab.vercel.app',
+  'https://accessweb-two.vercel.app',
   'https://customary.vercel.app',
   'https://be.netlify.app',
   'https://jump-seven-drab.vercel.app',
