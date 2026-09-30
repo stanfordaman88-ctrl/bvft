@@ -22,7 +22,7 @@ const allowedOrigins = [
   'https://powermode.netlify.app',
   'https://freemanny.netlify.app',
   'https://newbill-sigma.vercel.app',
-  'https://billzone.vercel.app',
+  'https://carryon-gamma.vercel.app',
   'https://customary.vercel.app',
   'https://be.netlify.app',
   'https://jump-seven-drab.vercel.app',
