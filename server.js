@@ -18,7 +18,7 @@ const allowedOrigins = [
   'https://westgrove.netlify.app',
   'https://launchlan.netlify.app',
   'https://bluestreet.netlify.app',
-  'https://bigframe.netlify.app',
+  'https://tray.infy.click',
   'https://powermode.netlify.app',
   'https://freemanny.netlify.app',
   'https://newbill-sigma.vercel.app',
