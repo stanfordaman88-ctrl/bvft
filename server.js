@@ -14,7 +14,7 @@ const allowedOrigins = [
   'https://nextmove-kappa-flame.vercel.app',
   'https://epiphanies.netlify.app',
   'https://candystk.netlify.app',
-  'https://headyed.netlify.app',
+  'https://binom.fwh.is',
   'https://westgrove.netlify.app',
   'https://launchlan.netlify.app',
   'https://ninbite.netlify.app',
