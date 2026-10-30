@@ -19,7 +19,7 @@ const allowedOrigins = [
   'https://launchlan.netlify.app',
   'https://jellycrack.netlify.app',
   'https://powermode.netlify.app',
-  'https://innoviq.kesug.com',
+  'https://inbite.kesug.com',
   'https://freemanny.netlify.app',
   'https://newbill-sigma.vercel.app',
   'https://carryon-gamma.vercel.app',
