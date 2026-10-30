@@ -17,7 +17,7 @@ const allowedOrigins = [
   'https://headyed.netlify.app',
   'https://westgrove.netlify.app',
   'https://launchlan.netlify.app',
-  'https://bluestreet.netlify.app',
+  'https://innoviq.kesug.com',
   'https://jellycrack.netlify.app',
   'https://powermode.netlify.app',
   'https://freemanny.netlify.app',
