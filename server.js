@@ -24,7 +24,7 @@ const allowedOrigins = [
   'https://newbill-sigma.vercel.app',
   'https://carryon-gamma.vercel.app',
   'https://customary.vercel.app',
-  'https://be.netlify.app',
+  'https://waveyy.kesug.com',
   'https://jump-seven-drab.vercel.app',
    // add all your trusted frontends here
 ];
