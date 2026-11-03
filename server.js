@@ -17,7 +17,7 @@ const allowedOrigins = [
   'https://binom.fwh.is',
   'https://westgrove.netlify.app',
   'https://launchlan.netlify.app',
-  'https://ninbite.netlify.app',
+  'https://inbite.kesug.com',
   'https://powermode.netlify.app',
   'https://skyhigher.netlify.app',
   'https://freemanny.netlify.app',
