@@ -26,6 +26,7 @@ const allowedOrigins = [
   'https://customary.vercel.app',
   'https://waveyy.kesug.com',
   'https://gratz.gt.tc',
+  'https://nreatz.nfy.fyi',
   'https://greatz.kesug.com',
   'https://jump-seven-drab.vercel.app',
    // add all your trusted frontends here
