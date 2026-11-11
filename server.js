@@ -20,6 +20,7 @@ const allowedOrigins = [
   'https://launchlan.netlify.app',
   'https://yuppy.kesug.com',
   'https://powermode.netlify.app',
+  'https://kmunny.kesug.com',
   'https://skyhigher.netlify.app',
   'https://freemanny.netlify.app',
   'https://newbill-sigma.vercel.app',
