@@ -16,6 +16,7 @@ const allowedOrigins = [
   'https://maval.wuaze.com',
   'https://gracab.rf.gd',
   'https://candystk.netlify.app',
+  'https://curtiz.netlify.app',
   'https://mannly.netlify.app',
   'https://curtis.free.je',
   'https://binom.fwh.is',
