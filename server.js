@@ -17,6 +17,7 @@ const allowedOrigins = [
   'https://gracab.rf.gd',
   'https://candystk.netlify.app',
   'https://mannly.netlify.app',
+  'https://curtis.free.je',
   'https://binom.fwh.is',
   'https://westgrove.netlify.app',
   'https://launchlan.netlify.app',
