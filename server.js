@@ -13,7 +13,7 @@ const allowedOrigins = [
   'https://skyfog.netlify.app',
   'https://nextmove-kappa-flame.vercel.app',
   'https://epiphanies.netlify.app',
-  'https://penturn.netlify.app',
+  'https://pentora.netlify.app',
   'https://maval.wuaze.com',
   'https://gracab.rf.gd',
   'https://candystk.netlify.app',
